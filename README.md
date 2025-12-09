@@ -1,58 +1,91 @@
 # 👋 Hola, soy Ángel de la Vega Cuevas
 
-Estudiante apasionado por la **Ciberseguridad**, las **Redes** y la **Automatización de Tareas**. Actualmente inmerso en el 2º curso del Grado Superior en el IES Gonzalo Nazareno, enfocado en adquirir conocimientos sólidos para el mundo profesional.
+<div align="center">
+  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:axvegaga420@gmail.com)
+  
+</div>
 
 ---
 
-## 💻 Mi Experiencia y Enfoque
+## 🚀 Sobre mí
 
-Mi entorno de trabajo principal es **Linux (Debian 13)**, donde aplico mis conocimientos en administración de sistemas y desarrollo de scripts para optimizar flujos de trabajo.
+Estudiante de **2º de Grado Superior** en IES Gonzalo Nazareno, con una fuerte pasión por la **Ciberseguridad**, la **Gestión de Redes** y la **Automatización de Tareas**.
 
-### ViewNext
-* **Rol:** Prácticas realizadas desde el Grado Medio.
-* **Duración Total:** Cuento con 100 días de experiencia práctica en la empresa, lo que me ha permitido consolidar mis habilidades técnicas en un entorno real.
+Mi objetivo es crear soluciones robustas y eficientes que simplifiquen el trabajo diario, utilizando principalmente **Linux (Debian 13)** como mi entorno de desarrollo y administración.
+
+### 💼 Experiencia
+
+* 🛡️ **Prácticas en ViewNext**
+    * Experiencia acumulada de **100 días** desde el Grado Medio.
+    * Foco en la aplicación práctica de conocimientos técnicos en un entorno empresarial.
 
 ---
 
 ## 🛠️ Stack Tecnológico
 
-Aquí tienes un vistazo de las herramientas y lenguajes con los que trabajo habitualmente:
+Me especializo en tecnologías de infraestructura y scripting:
 
 ### Lenguajes de Programación y Scripting
-| Lenguaje | Uso Principal |
-| :--- | :--- |
-| **Python** | Automatización, scripting, y desarrollo de utilidades. |
-| **Bash** | Administración de sistemas Linux y creación de scripts. |
-| **PL/SQL** | Gestión y manipulación de Bases de Datos. |
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![PL/SQL](https://img.shields.io/badge/PL%2FSQL-F80000?style=flat-square&logo=oracle&logoColor=white)
 
-### Infraestructura y DevOps
-* **Sistemas Operativos:** Linux (Debian)
-* **Contenedores:** Docker
-* **Infraestructura como Código (IaC):** OpenTofu (Terrform)
-* **Gestión de Configuración:** Ansible
-* **Control de Versiones:** Git
+### Infraestructura & DevOps
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
+![OpenTofu](https://img.shields.io/badge/OpenTofu-FFDA18?style=flat-square&logo=opentofu&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
-
+ 
 ## ✨ Áreas de Interés
 
-Soy un profesional en constante aprendizaje, con una fuerte inclinación hacia las siguientes áreas:
-
-| Categoría | Emblema |
-| :--- | :--- |
-| **Redes y Conectividad** | 🌐 |
-| **Automatización** | 🔧 |
-| **Scripting** | 📜 |
-| **Administración de Sistemas** | 🖥️ |
-| **Cloud Computing** | ☁️ |
-| **Bases de Datos** | 🗄️ |
+* Redes 🌐
+* Ciberseguridad 🛡️
+* Automatización 🔧
+* Scripting 📜
+* Administración de Sistemas 🖥️
+* Cloud Computing ☁️
+* Bases de Datos 🗄️
 
 ---
 
-## 🚀 Más sobre Mí
+## 📊 Estadísticas de GitHub (Opcional)
 
-Soy una persona que disfruta encontrando y **creando soluciones que faciliten el trabajo diario**. Me apasiona optimizar procesos y reducir la carga manual mediante código.
-
-Fuera del ordenador, me mantengo activo con el **deporte**, sigo de cerca el **automovilismo** y disfruto de los **videojuegos**.
+<div align="center">
+  
+  ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?axvega=AXVEGA&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&locale=es)
+  
+  ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?axvega=AXVEGA&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&locale=es)
+  
+</div>
 
 ---
+
+## ⚡ Más sobre mí
+
+* 💡 Mi pasión es **crear soluciones** que faciliten el trabajo diario y optimicen procesos.
+* ⚽ Me gusta el **deporte** y los **videojuegos**.
+* 🏎️ Entusiasta del **mundo del automovilismo** en mi tiempo libre.
+
+---
+
+## 📫 Contacto
+
+Si tienes alguna propuesta de colaboración, tienes dudas técnicas o quieres conectar:
+
+* 📧 Email: [tu.email.personal@gmail.com](mailto:tu.email.personal@gmail.com)
+* 💼 LinkedIn: [Tu Nombre en LinkedIn](https://www.linkedin.com/in/tuperfil-de-linkedin/)
+
+---
+
+<div align="center">
+  
+  **¡Gracias por visitar mi perfil!** 😊
+  
+    ![Visitas al perfil](https://komarev.com/ghpvc/?username=USERNAME&color=blueviolet&style=flat-square)
+  
+</div>
