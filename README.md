@@ -1,9 +1,9 @@
 # 👋 Hola, soy Ángel de la Vega Cuevas
 
 <div align="center">
-  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:axvegaga420@gmail.com)
-  
+  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:axvega420@gmail.com)
+  
 </div>
 
 ---
@@ -40,7 +40,7 @@ Me especializo en tecnologías de infraestructura y scripting:
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
- 
+
 ## ✨ Áreas de Interés
 
 * Redes 🌐
@@ -53,14 +53,14 @@ Me especializo en tecnologías de infraestructura y scripting:
 
 ---
 
-## 📊 Estadísticas de GitHub (Opcional)
+## 📊 Estadísticas de GitHub
 
 <div align="center">
-  
-  ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?axvega=AXVEGA&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&locale=es)
-  
-  ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?axvega=AXVEGA&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&locale=es)
-  
+  
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=axvega&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&locale=es)
+
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=axvega&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&locale=es)
+  
 </div>
 
 ---
@@ -83,9 +83,8 @@ Si tienes alguna propuesta de colaboración, tienes dudas técnicas o quieres co
 ---
 
 <div align="center">
-  
-  **¡Gracias por visitar mi perfil!** 😊
-  
-    ![Visitas al perfil](https://komarev.com/ghpvc/?username=USERNAME&color=blueviolet&style=flat-square)
-  
+  
+**¡Gracias por visitar mi perfil!** 😊  
+![Visitas al perfil](https://komarev.com/ghpvc/?username=axvega&color=blueviolet&style=flat-square)
+  
 </div>
