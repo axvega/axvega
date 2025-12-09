@@ -53,18 +53,6 @@ Me especializo en tecnologías de infraestructura y scripting:
 
 ---
 
-## 📊 Estadísticas de GitHub
-
-<div align="center">
-  
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=axvega&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&locale=es)
-
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=axvega&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&locale=es)
-  
-</div>
-
----
-
 ## ⚡ Más sobre mí
 
 * 💡 Mi pasión es **crear soluciones** que faciliten el trabajo diario y optimicen procesos.
