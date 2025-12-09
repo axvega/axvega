@@ -77,9 +77,7 @@ Me especializo en tecnologías de infraestructura y scripting:
 
 Si tienes alguna propuesta de colaboración, tienes dudas técnicas o quieres conectar:
 
-* 📧 Email: [tu.email.personal@gmail.com](mailto:tu.email.personal@gmail.com)
-* 💼 LinkedIn: [Tu Nombre en LinkedIn](https://www.linkedin.com/in/tuperfil-de-linkedin/)
-
+* 📧 Email: [axvega420@gmail.com](mailto:axvega420@gmail.com)
 ---
 
 <div align="center">
